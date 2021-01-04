@@ -23,6 +23,20 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "farofa",
+      "price": "19.90",
+      "description": "faro + fafa"
+    },
+    {
+      "id": 5,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "farofa com banana",
+      "price": "9.90",
+      "description": "farofa + Banana "
     }
   ]
 }
